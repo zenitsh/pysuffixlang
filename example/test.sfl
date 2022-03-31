@@ -1,0 +1,1 @@
+1 a sync 2 b sync a b > prog 1 print end prog 2 print end cond
